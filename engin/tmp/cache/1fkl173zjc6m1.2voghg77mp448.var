@@ -1,0 +1,36 @@
+a:3:{i:0;s:940:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'nmap.ir'
+
+
+domain:		nmap.ir
+ascii:		nmap.ir
+remarks:	(Domain Holder) Amin Khoshnood
+remarks:	(Domain Holder Address) kerman, AmirKabir blvd, Kerman, Kerman, IR
+holder-c:	ak1317-irnic
+admin-c:	ak1317-irnic
+tech-c:		ak1317-irnic
+bill-c:		ra1722-irnic
+nserver:	ns.netafraz.com
+nserver:	ns2.netafraz.com
+last-updated:	2016-11-07
+expire-date:	2021-11-08
+source:		IRNIC # Filtered
+
+nic-hdl:	ak1317-irnic
+person:		Amin Khoshnood
+e-mail:		noodi.net@gmail.com
+address:	kerman, AmirKabir blvd, Kerman, Kerman, IR
+phone:		+989376035335
+source:		IRNIC # Filtered
+
+nic-hdl:	ra1722-irnic
+org:		Rayan Dadeh Negar Dena
+e-mail:		rayan@talahost.com
+source:		IRNIC # Filtered";i:1;d:1552378158.711594104766845703125;i:2;i:86400;}

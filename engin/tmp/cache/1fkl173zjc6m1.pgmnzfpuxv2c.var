@@ -1,0 +1,30 @@
+a:3:{i:0;s:827:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'hammorad.ir'
+
+
+domain:		hammorad.ir
+ascii:		hammorad.ir
+remarks:	(Domain Holder) hamed moradkhani
+remarks:	(Domain Holder Address) ilam city.hakim strit .5 no, ilam, ilam, IR
+holder-c:	hm7398-irnic
+admin-c:	hm7398-irnic
+tech-c:		hm7398-irnic
+nserver:	ns1.hammorad.ir
+nserver:	ns2.hammorad.ir
+last-updated:	2018-11-16
+expire-date:	2019-11-16
+source:		IRNIC # Filtered
+
+nic-hdl:	hm7398-irnic
+person:		hamed moradkhani
+e-mail:		hammorad2@gmail.com
+address:	ilam city.hakim strit .5 no, ilam, ilam, IR
+phone:		09036153594
+source:		IRNIC # Filtered";i:1;d:1542450245.8510000705718994140625;i:2;i:86400;}

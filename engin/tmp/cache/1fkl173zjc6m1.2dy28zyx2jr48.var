@@ -1,0 +1,31 @@
+a:3:{i:0;s:948:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'terminal.ir'
+
+
+domain:		terminal.ir
+ascii:		terminal.ir
+remarks:	(Domain Holder) Fereydoon Ghareei Inchehbroun
+remarks:	(Domain Holder Address) Kimia Complex, No. 72, Besat St., Ferdoosi Cross Road,, Gonbad Kavous, Golestan, IR
+holder-c:	fg89-irnic
+admin-c:	fg89-irnic
+tech-c:		fg89-irnic
+nserver:	ns1.kimiahost.com
+nserver:	ns2.kimiahost.com
+last-updated:	2018-10-12
+expire-date:	2020-07-26
+source:		IRNIC # Filtered
+
+nic-hdl:	fg89-irnic
+person:		Fereydoon Ghareei Inchehbroun
+e-mail:		ghareei@gmail.com
+address:	Kimia Complex, No. 72, Besat St., Ferdoosi Cross Road,, Gonbad Kavous, Golestan, IR
+phone:		09120240115
+fax-no:		01733228222
+source:		IRNIC # Filtered";i:1;d:1547895568.7702219486236572265625;i:2;i:86400;}

@@ -1,0 +1,35 @@
+a:3:{i:0;s:999:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'Aircrack-ng.ir'
+
+
+domain:		aircrack-ng.ir
+ascii:		aircrack-ng.ir
+remarks:	(Domain Holder) Mohammad Shojaee
+remarks:	(Domain Holder Address) South Resalat St., Kheybar St.,  No. 16,, Bandar Abbas, Hormozgan, IR
+holder-c:	ms465-irnic
+admin-c:	ms465-irnic
+tech-c:		sh1639-irnic
+nserver:	ns1.tajdini.net
+nserver:	ns2.tajdini.net
+last-updated:	2017-10-31
+expire-date:	2022-09-30
+source:		IRNIC # Filtered
+
+nic-hdl:	ms465-irnic
+person:		Mohammad Shojaee
+e-mail:		it.dist6@gmail.com
+address:	South Resalat St., Kheybar St.,  No. 16,, Bandar Abbas, Hormozgan, IR
+phone:		+987616666346
+source:		IRNIC # Filtered
+
+nic-hdl:	sh1639-irnic
+org:		Shabake Ertebatat Artak Tosee
+e-mail:		nicir@artaknet.com
+source:		IRNIC # Filtered";i:1;d:1552283589.43893909454345703125;i:2;i:86400;}

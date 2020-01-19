@@ -1,0 +1,37 @@
+a:3:{i:0;s:1078:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'bash.ir'
+
+
+domain:		bash.ir
+ascii:		bash.ir
+remarks:	(Domain Holder) Bashir Khoshnevis
+remarks:	(Domain Holder Address) No . 10 Ghorbani alley , Attari moghadam St , Khaghani St , Shariati St, Tehran, Tehran, IR
+holder-c:	bk80-irnic
+admin-c:	bk80-irnic
+tech-c:		no297-irnic
+bill-c:		no297-irnic
+nserver:	ns1.hostiran.net
+nserver:	ns2.hostiran.net
+last-updated:	2015-11-01
+expire-date:	2020-11-26
+source:		IRNIC # Filtered
+
+nic-hdl:	bk80-irnic
+person:		Bashir Khoshnevis
+e-mail:		onfuve@gmail.com
+address:	No . 10 Ghorbani alley , Attari moghadam St , Khaghani St , Shariati St, Tehran, Tehran, IR
+phone:		22001256
+fax-no:		22601433
+source:		IRNIC # Filtered
+
+nic-hdl:	no297-irnic
+org:		Noavaran Shabake Sabz Mehregan (HostIran Networks)
+e-mail:		esmailian@hostiran.com
+source:		IRNIC # Filtered";i:1;d:1547895613.3841860294342041015625;i:2;i:86400;}

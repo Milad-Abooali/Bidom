@@ -1,0 +1,36 @@
+a:3:{i:0;s:1003:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'nodejs.ir'
+
+
+domain:		nodejs.ir
+ascii:		nodejs.ir
+remarks:	(Domain Holder) Ali Farhadi Bajestani
+remarks:	(Domain Holder Address) No. 1, 20th Yas St., Janbaz Sq.,, Mashhad, Khorasan Razavi, IR
+holder-c:	af251-irnic
+admin-c:	af251-irnic
+tech-c:		to52-irnic
+bill-c:		to52-irnic
+nserver:	ns1.oweb.ir
+nserver:	ns2.oweb.ir
+last-updated:	2015-10-02
+expire-date:	2021-01-02
+source:		IRNIC # Filtered
+
+nic-hdl:	af251-irnic
+person:		Ali Farhadi Bajestani
+e-mail:		a.farhadi@gmail.com
+address:	No. 1, 20th Yas St., Janbaz Sq.,, Mashhad, Khorasan Razavi, IR
+phone:		+989153232123
+source:		IRNIC # Filtered
+
+nic-hdl:	to52-irnic
+org:		Fanavarie Etelaate Towseye Saman (Mihannic)
+e-mail:		sales@mihannic.com
+source:		IRNIC # Filtered";i:1;d:1547897060.4472520351409912109375;i:2;i:86400;}

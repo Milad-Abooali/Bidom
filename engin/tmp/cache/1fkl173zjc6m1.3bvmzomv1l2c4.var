@@ -1,0 +1,32 @@
+a:3:{i:0;s:941:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'linklink.ir'
+
+
+domain:		linklink.ir
+ascii:		linklink.ir
+remarks:	(Domain Holder) Mohammad Sabourian Sarroodi
+remarks:	(Domain Holder Address) No 36, Hasheminezhad 9,Shohada Sq, Mashhad, Khorasan Razavi, IR
+holder-c:	ms4197-irnic
+admin-c:	ms4197-irnic
+tech-c:		ms4197-irnic
+nserver:	ns1.parspack.co
+nserver:	ns2.parspack.co
+nserver:	ns3.parspack.co
+nserver:	ns4.parspack.co
+last-updated:	2018-10-20
+expire-date:	2021-01-16
+source:		IRNIC # Filtered
+
+nic-hdl:	ms4197-irnic
+person:		Mohammad Sabourian Sarroodi
+e-mail:		webelizer@gmail.com
+address:	No 36, Hasheminezhad 9,Shohada Sq, Mashhad, Khorasan Razavi, IR
+phone:		+989355613840
+source:		IRNIC # Filtered";i:1;d:1541948649.6233589649200439453125;i:2;i:86400;}

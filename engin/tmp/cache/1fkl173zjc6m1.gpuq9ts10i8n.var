@@ -1,0 +1,30 @@
+a:3:{i:0;s:825:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'mac.ir'
+
+
+domain:		mac.ir
+ascii:		mac.ir
+remarks:	(Domain Holder) Mohammadreza Abbassian
+remarks:	(Domain Holder Address) No. 73, Mirza Shirazi Ave.,, Tehran, Tehran, IR
+holder-c:	ma400-irnic
+admin-c:	ma400-irnic
+tech-c:		ma400-irnic
+nserver:	ns110.nanopars.net
+last-updated:	2016-11-16
+expire-date:	2022-01-15
+source:		IRNIC # Filtered
+
+nic-hdl:	ma400-irnic
+person:		Mohammadreza Abbassian
+e-mail:		admin@nano.co.ir
+address:	No. 73, Mirza Shirazi Ave.,, Tehran, Tehran, IR
+phone:		09122202682
+fax-no:		+98 21 84350
+source:		IRNIC # Filtered";i:1;d:1547895558.3178958892822265625;i:2;i:86400;}

@@ -1,0 +1,40 @@
+a:3:{i:0;s:1181:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'saza.ir'
+
+
+domain:		saza.ir
+ascii:		saza.ir
+remarks:	(Domain Holder) omid shams sfandabadi
+remarks:	(Domain Holder Address) janat abad-shahin shomali-bon baste sosan-pelake 4, tehran, tehran, IR
+holder-c:	os205-irnic
+admin-c:	to52-irnic
+tech-c:		to52-irnic
+bill-c:		to52-irnic
+nserver:	ns1.webramz.com
+nserver:	ns2.webramz.com
+last-updated:	2018-09-04
+expire-date:	2019-07-31
+source:		IRNIC # Filtered
+
+nic-hdl:	os205-irnic
+person:		omid shams sfandabadi
+org:		sazaco
+e-mail:		shams.omid@gmail.com
+address:	janat abad-shahin shomali-bon baste sosan-pelake 4, tehran, tehran, IR
+phone:		09127993171
+source:		IRNIC # Filtered
+
+nic-hdl:	to52-irnic
+org:		Fanavarie Etelaate Towseye Saman (Mihannic)
+e-mail:		sales@mihannic.com
+address:	Mashhad-St Esteghlal,Esteghlal 9,nabshe 4rahe chaharom,NO 28, Mashhad, Khorasan Razavi, IR
+phone:		+98 511 7258588
+fax-no:		+98 511 7677017
+source:		IRNIC # Filtered";i:1;d:1541244325.752398967742919921875;i:2;i:86400;}

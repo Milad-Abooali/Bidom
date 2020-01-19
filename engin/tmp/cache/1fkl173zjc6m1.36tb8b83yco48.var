@@ -1,0 +1,36 @@
+a:3:{i:0;s:980:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'link-link.ir'
+
+
+domain:		link-link.ir
+ascii:		link-link.ir
+remarks:	(Domain Holder) Zahra Mohammadpoor
+remarks:	(Domain Holder Address) No. 150, Padadshahr, 15 St., Ahwaz, Khuzestan, IR
+holder-c:	zm120-irnic
+admin-c:	zm120-irnic
+tech-c:		zm120-irnic
+bill-c:		er1229-irnic
+nserver:	ns3.matinwebhost.ir
+nserver:	ns4.matinwebhost.ir
+last-updated:	2017-12-28
+expire-date:	2018-12-27
+source:		IRNIC # Filtered
+
+nic-hdl:	zm120-irnic
+person:		Zahra Mohammadpoor
+e-mail:		ahwaz118@gmail.com
+address:	No. 150, Padadshahr, 15 St., Ahwaz, Khuzestan, IR
+phone:		+98 611 553 9142
+source:		IRNIC # Filtered
+
+nic-hdl:	er1229-irnic
+org:		ertebatat netmihan
+e-mail:		lir@mihanwebhost.com
+source:		IRNIC # Filtered";i:1;d:1541948726.052525997161865234375;i:2;i:86400;}

@@ -1,0 +1,44 @@
+a:3:{i:0;s:1150:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'centralmobile.ir'
+
+
+domain:		centralmobile.ir
+ascii:		centralmobile.ir
+remarks:	(Domain Holder) Masoud Narimani Zaman Abadi
+remarks:	(Domain Holder Address) Imam Hussein, Isfahan, Isfahan, IR
+holder-c:	mn3091-irnic
+admin-c:	ag305-irnic
+tech-c:		ag305-irnic
+bill-c:		fa482-irnic
+nserver:	ns1.iras.co.ir
+nserver:	ns2.iras.co.ir
+last-updated:	2016-07-31
+expire-date:	2021-01-02
+source:		IRNIC # Filtered
+
+nic-hdl:	mn3091-irnic
+person:		Masoud Narimani Zaman Abadi
+org:		Nasle Javan
+e-mail:		i30t.ir@gmail.com
+address:	Imam Hussein, Isfahan, Isfahan, IR
+phone:		+983125858626
+source:		IRNIC # Filtered
+
+nic-hdl:	ag305-irnic
+person:		Amir Grouhi
+e-mail:		grouhi@gmail.com
+address:	Mirdamad, No. 7,, Tehran, Tehran, IR
+phone:		09391225656
+source:		IRNIC # Filtered
+
+nic-hdl:	fa482-irnic
+org:		Faraso Samaneh Pasargad Co.
+e-mail:		irnic@faraso.org
+source:		IRNIC # Filtered";i:1;d:1547657743.6241109371185302734375;i:2;i:86400;}

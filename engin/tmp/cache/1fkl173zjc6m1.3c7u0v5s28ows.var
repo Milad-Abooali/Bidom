@@ -1,0 +1,37 @@
+a:3:{i:0;s:1023:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'decode.ir'
+
+
+domain:		decode.ir
+ascii:		decode.ir
+remarks:	(Domain Holder) Mohammad Hakimi
+remarks:	(Domain Holder Address) Esalat Alley, Behesht Zahra St., Garkani Ave., Bardsir, Kerman, IR
+holder-c:	mh205-irnic
+admin-c:	mh205-irnic
+tech-c:		mh205-irnic
+bill-c:		mo618-irnic
+nserver:	ns77.dnslake.com
+nserver:	ns2.parsihost.com
+last-updated:	2018-09-27
+expire-date:	2018-12-21
+source:		IRNIC # Filtered
+
+nic-hdl:	mh205-irnic
+person:		Mohammad Hakimi
+e-mail:		mohakimi@gmail.com
+address:	Esalat Alley, Behesht Zahra St., Garkani Ave., Bardsir, Kerman, IR
+phone:		09384500575
+fax-no:		09384500575
+source:		IRNIC # Filtered
+
+nic-hdl:	mo618-irnic
+org:		Moshavere Rayane Ideh Gostar Caspian
+e-mail:		nic@domainname.ir
+source:		IRNIC # Filtered";i:1;d:1542630038.175384044647216796875;i:2;i:86400;}

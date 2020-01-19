@@ -1,0 +1,44 @@
+a:3:{i:0;s:1263:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'pasargadvip.ir'
+
+
+domain:		pasargadvip.ir
+ascii:		pasargadvip.ir
+remarks:	(Domain Holder) mandana sheikh
+remarks:	(Domain Holder Address) No 21 . Alley niloofar... zanbagh ave. Ladan street.. north Sardr jangal, tehran, tehran, IR
+holder-c:	ms18627-irnic
+admin-c:	ms18627-irnic
+tech-c:		ms4197-irnic
+bill-c:		fa482-irnic
+nserver:	ns1.codebox.xyz
+nserver:	ns2.codebox.xyz
+nserver:	ns3.codebox.xyz
+nserver:	ns4.codebox.xyz
+last-updated:	2018-07-05
+expire-date:	2018-07-16
+source:		IRNIC # Filtered
+
+nic-hdl:	ms18627-irnic
+person:		mandana sheikh
+org:		pasargad insurance
+e-mail:		mandana.mehrmana@gmail.com
+address:	No 21 . Alley niloofar... zanbagh ave. Ladan street.. north Sardr jangal, tehran, tehran, IR
+phone:		+98 21 44817483
+source:		IRNIC # Filtered
+
+nic-hdl:	ms4197-irnic
+person:		Mohammad Sabourian Sarroodi
+e-mail:		webelizer@gmail.com
+source:		IRNIC # Filtered
+
+nic-hdl:	fa482-irnic
+org:		Faraso Samaneh Pasargad Co.
+e-mail:		irnic@faraso.org
+source:		IRNIC # Filtered";i:1;d:1530791567.0170810222625732421875;i:2;i:86400;}

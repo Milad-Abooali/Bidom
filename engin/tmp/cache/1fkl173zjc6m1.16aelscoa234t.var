@@ -1,0 +1,30 @@
+a:3:{i:0;s:862:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'kalayab.ir'
+
+
+domain:		kalayab.ir
+ascii:		kalayab.ir
+remarks:	(Domain Holder) javad bagherian movahed
+remarks:	(Domain Holder Address) no. 7, roohi st., khayyam ave.,, tehran, tehran, IR
+holder-c:	jb76-irnic
+admin-c:	jb76-irnic
+tech-c:		jb76-irnic
+nserver:	ns118.nanopars.net
+nserver:	ns119.nanopars.net
+last-updated:	2015-08-03
+expire-date:	2020-06-29
+source:		IRNIC # Filtered
+
+nic-hdl:	jb76-irnic
+person:		javad bagherian movahed
+e-mail:		javadebagherian@gmail.com
+address:	no. 7, roohi st., khayyam ave.,, tehran, tehran, IR
+phone:		+98 21 33973294
+source:		IRNIC # Filtered";i:1;d:1520239118.882320880889892578125;i:2;i:86400;}

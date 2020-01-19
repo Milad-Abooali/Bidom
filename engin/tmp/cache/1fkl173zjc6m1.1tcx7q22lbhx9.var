@@ -1,0 +1,35 @@
+a:3:{i:0;s:931:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'medzar.ir'
+
+
+domain:		medzar.ir
+ascii:		medzar.ir
+remarks:	(Domain Holder) mehdi zare
+remarks:	(Domain Holder Address) shahrak esteghlal khiyaboon bagheri, shiraz, fars, IR
+holder-c:	mz5737-irnic
+admin-c:	mz5737-irnic
+tech-c:		ma363-irnic
+nserver:	ns1.codebox.xyz
+nserver:	ns2.codebox.xyz
+last-updated:	2019-02-09
+expire-date:	2020-02-08
+source:		IRNIC # Filtered
+
+nic-hdl:	mz5737-irnic
+person:		mehdi zare
+e-mail:		med.zare89@gmail.com
+address:	shahrak esteghlal khiyaboon bagheri, shiraz, fars, IR
+phone:		07136511365
+source:		IRNIC # Filtered
+
+nic-hdl:	ma363-irnic
+person:		Milad Abooali
+e-mail:		M.Abooali@hotmail.com
+source:		IRNIC # Filtered";i:1;d:1551874203.524303913116455078125;i:2;i:86400;}

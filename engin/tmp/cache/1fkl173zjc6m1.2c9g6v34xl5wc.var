@@ -1,0 +1,38 @@
+a:3:{i:0;s:1152:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'decoding.ir'
+
+
+domain:		decoding.ir
+ascii:		decoding.ir
+remarks:	(Domain Holder) Mohammad-Moein Nourmohammadi
+remarks:	(Domain Holder Address) No. 20, Ordibehesht Ln., Bahaar St., Imaan St., Abu Reihan St., Kaveh St.,, Esfahan, Esfahan, IR
+holder-c:	mn136-irnic
+admin-c:	mn136-irnic
+tech-c:		ms4197-irnic
+nserver:	ns1.mizbandp.com
+nserver:	ns2.mizbandp.com
+nserver:	ns3.mizbandp.com
+nserver:	ns4.mizbandp.com
+last-updated:	2016-06-15
+expire-date:	2021-03-17
+source:		IRNIC # Filtered
+
+nic-hdl:	mn136-irnic
+person:		Mohammad-Moein Nourmohammadi
+e-mail:		moein.biz@gmail.com
+address:	No. 20, Ordibehesht Ln., Bahaar St., Imaan St., Abu Reihan St., Kaveh St.,, Esfahan, Esfahan, IR
+phone:		+98 311 4514430
+fax-no:		+98 311 4500301
+source:		IRNIC # Filtered
+
+nic-hdl:	ms4197-irnic
+person:		Mohammad Sabourian Sarroodi
+e-mail:		webelizer@gmail.com
+source:		IRNIC # Filtered";i:1;d:1542630086.928379058837890625;i:2;i:86400;}

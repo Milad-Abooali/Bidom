@@ -1,0 +1,36 @@
+a:3:{i:0;s:1037:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'sasan.ir'
+
+
+domain:		sasan.ir
+ascii:		sasan.ir
+remarks:	(Domain Holder) Masumeh Afiati
+remarks:	(Domain Holder Address) Unit 3, No. 2, Khosroshahi Alley, SheykhSafi St., Gorgan Sq.,, Tehran, Tehran, IR
+holder-c:	ma61-irnic
+admin-c:	ma61-irnic
+tech-c:		ma61-irnic
+bill-c:		ye303-irnic
+nserver:	ns1.irandomainparking.com
+nserver:	ns2.irandomainparking.com
+last-updated:	2017-08-11
+expire-date:	2023-04-30
+source:		IRNIC # Filtered
+
+nic-hdl:	ma61-irnic
+person:		Masumeh Afiati
+e-mail:		masumehafiati@yahoo.com
+address:	Unit 3, No. 2, Khosroshahi Alley, SheykhSafi St., Gorgan Sq.,, Tehran, Tehran, IR
+phone:		+98 935 8800 099
+source:		IRNIC # Filtered
+
+nic-hdl:	ye303-irnic
+org:		Yekta Afarinesh Kiana
+e-mail:		yak.co.ir@gmail.com
+source:		IRNIC # Filtered";i:1;d:1530438494.558537960052490234375;i:2;i:86400;}

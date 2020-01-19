@@ -1,0 +1,36 @@
+a:3:{i:0;s:1001:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'parrot.ir'
+
+
+domain:		parrot.ir
+ascii:		parrot.ir
+remarks:	(Domain Holder) Hadi Naddafi Semnani
+remarks:	(Domain Holder Address) No. 24,Eini St,Habibollahi St,Sattarkhan St, Tehran, Tehran, IR
+holder-c:	hn698-irnic
+admin-c:	hn698-irnic
+tech-c:		hn698-irnic
+bill-c:		fa482-irnic
+nserver:	ns.netafraz.com
+nserver:	ns2.netafraz.com
+last-updated:	2018-12-14
+expire-date:	2020-04-15
+source:		IRNIC # Filtered
+
+nic-hdl:	hn698-irnic
+person:		Hadi Naddafi Semnani
+e-mail:		naddafihadi@yahoo.com
+address:	No. 24,Eini St,Habibollahi St,Sattarkhan St, Tehran, Tehran, IR
+phone:		+98 21 33935749
+source:		IRNIC # Filtered
+
+nic-hdl:	fa482-irnic
+org:		Faraso Samaneh Pasargad Co.
+e-mail:		irnic@faraso.org
+source:		IRNIC # Filtered";i:1;d:1550905575.0198650360107421875;i:2;i:86400;}

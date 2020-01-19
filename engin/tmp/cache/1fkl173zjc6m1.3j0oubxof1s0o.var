@@ -1,0 +1,35 @@
+a:3:{i:0;s:951:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'rowshan.ir'
+
+
+domain:		rowshan.ir
+ascii:		rowshan.ir
+remarks:	(Domain Holder) MohammadReza Yaryar
+remarks:	(Domain Holder Address) AzadiSt MRY2Soft Software Managment, Tehran, Tehran, IR
+holder-c:	my401-irnic
+admin-c:	my401-irnic
+tech-c:		bb68-irnic
+nserver:	ns1.rozblog.com
+nserver:	ns2.rozblog.com
+last-updated:	2015-08-22
+expire-date:	2019-10-28
+source:		IRNIC # Filtered
+
+nic-hdl:	my401-irnic
+person:		MohammadReza Yaryar
+e-mail:		mry2soft@gmail.com
+address:	AzadiSt MRY2Soft Software Managment, Tehran, Tehran, IR
+phone:		+989386700673
+source:		IRNIC # Filtered
+
+nic-hdl:	bb68-irnic
+person:		Bahram Behzadi
+e-mail:		domains@talahost.com
+source:		IRNIC # Filtered";i:1;d:1541948294.63755893707275390625;i:2;i:86400;}

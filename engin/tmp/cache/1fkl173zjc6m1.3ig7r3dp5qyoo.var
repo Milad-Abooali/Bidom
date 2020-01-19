@@ -1,0 +1,30 @@
+a:3:{i:0;s:851:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'ezconfig.ir'
+
+
+domain:		ezconfig.ir
+ascii:		ezconfig.ir
+remarks:	(Domain Holder) Milad Abooali
+remarks:	(Domain Holder Address) Nasr-st., Maede st., Maede1 st., No.6,, Shiraz, Fars, IR
+holder-c:	ma363-irnic
+admin-c:	ma363-irnic
+tech-c:		ma363-irnic
+nserver:	ns1.yourdomain.com
+nserver:	ns2.yourdomain.com
+last-updated:	2018-05-20
+expire-date:	2023-05-20
+source:		IRNIC # Filtered
+
+nic-hdl:	ma363-irnic
+person:		Milad Abooali
+e-mail:		M.Abooali@hotmail.com
+address:	Nasr-st., Maede st., Maede1 st., No.6,, Shiraz, Fars, IR
+phone:		09179118753
+source:		IRNIC # Filtered";i:1;d:1528846191.58954906463623046875;i:2;i:86400;}

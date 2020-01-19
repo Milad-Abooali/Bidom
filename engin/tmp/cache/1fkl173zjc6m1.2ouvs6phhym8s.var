@@ -1,0 +1,39 @@
+a:3:{i:0;s:1134:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'lingua.ir'
+
+
+domain:		lingua.ir
+ascii:		lingua.ir
+remarks:	(Domain Holder) alireza dadfar
+remarks:	(Domain Holder Address) 4th floor - no. 62 - yousefi alley - gisha st.,, Tehran, Tehran, IR
+holder-c:	ad1018-irnic
+admin-c:	ir50-irnic
+tech-c:		ir50-irnic
+bill-c:		ir50-irnic
+nserver:	ns1.alirezadadfar.ir
+nserver:	ns2.alirezadadfar.ir
+last-updated:	2018-07-22
+expire-date:	2021-11-28
+source:		IRNIC # Filtered
+
+nic-hdl:	ad1018-irnic
+person:		alireza dadfar
+e-mail:		dadfar@gmail.com
+address:	4th floor - no. 62 - yousefi alley - gisha st.,, Tehran, Tehran, IR
+phone:		021-88260301
+source:		IRNIC # Filtered
+
+nic-hdl:	ir50-irnic
+org:		Roshangar Rayane Tehran (Iran Host)
+e-mail:		internal@iranhost.com
+address:	Unit 4, No.22,Qabousnameh St.,Motahari Ave.,, Tehran, Tehran, IR
+phone:		+98 21 8834 8973
+fax-no:		+98 21 8832 9652
+source:		IRNIC # Filtered";i:1;d:1551191276.4330360889434814453125;i:2;i:86400;}

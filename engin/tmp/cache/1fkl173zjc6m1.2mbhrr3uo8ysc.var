@@ -1,0 +1,39 @@
+a:3:{i:0;s:1061:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'payamelectric.ir'
+
+
+domain:		payamelectric.ir
+ascii:		payamelectric.ir
+remarks:	(Domain Holder) mehdi talebi
+remarks:	(Domain Holder Address) lalehzar street, number 645,, tehran, tehran, IR
+holder-c:	mt5660-irnic
+admin-c:	mp1080-irnic
+tech-c:		mp1080-irnic
+nserver:	ns11.pro24.tasnim.host
+nserver:	ns12.pro24.tasnim.host
+last-updated:	2017-12-28
+expire-date:	2022-12-27
+source:		IRNIC # Filtered
+
+nic-hdl:	mt5660-irnic
+person:		mehdi talebi
+e-mail:		mehdi_talebi68@yahoo.com
+address:	lalehzar street, number 645,, tehran, tehran, IR
+phone:		+982166732526
+fax-no:		+982166727202
+source:		IRNIC # Filtered
+
+nic-hdl:	mp1080-irnic
+person:		Mohsen Paizi
+org:		Tasnim Co
+e-mail:		nic@tasnim.co
+address:	No.5 , Amin st., Qom, Qom, IR
+phone:		+98 251 7839262
+source:		IRNIC # Filtered";i:1;d:1516362027.263636112213134765625;i:2;i:86400;}

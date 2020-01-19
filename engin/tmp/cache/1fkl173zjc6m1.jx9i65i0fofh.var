@@ -1,0 +1,38 @@
+a:3:{i:0;s:1018:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'hipromo.ir'
+
+
+domain:		hipromo.ir
+ascii:		hipromo.ir
+remarks:	(Domain Holder) Majid Razmjoo
+remarks:	(Domain Holder Address) Moali Abad Koye Vahdat, Shiraz, Fars, IR
+holder-c:	mr5264-irnic
+admin-c:	ar5678-irnic
+tech-c:		ar5678-irnic
+nserver:	mars1.asemanhost.com
+nserver:	mars2.asemanhost.com
+last-updated:	2018-08-21
+expire-date:	2019-08-22
+source:		IRNIC # Filtered
+
+nic-hdl:	mr5264-irnic
+person:		Majid Razmjoo
+e-mail:		mrazmjoo@gmail.com
+address:	Moali Abad Koye Vahdat, Shiraz, Fars, IR
+phone:		+989173155901
+source:		IRNIC # Filtered
+
+nic-hdl:	ar5678-irnic
+org:		Aram Pardaz Aseman
+e-mail:		asemanhost@gmail.com
+address:	Roodaki St, Esfahan, Esfahan, IR
+phone:		+98 31 37764299
+fax-no:		+98 31 37764299
+source:		IRNIC # Filtered";i:1;d:1547131481.41432094573974609375;i:2;i:86400;}

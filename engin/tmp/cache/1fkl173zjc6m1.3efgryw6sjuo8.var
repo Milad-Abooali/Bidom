@@ -1,0 +1,44 @@
+a:3:{i:0;s:1402:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'mehdizare.ir'
+
+
+domain:		mehdizare.ir
+ascii:		mehdizare.ir
+remarks:	(Domain Holder) Kimia Kherad Pars,Ltd
+remarks:	(Domain Holder Address) No. 27, West Shiraz Ave., Sharif Univercity of Technology  township, Ardestani Ave., 17th Km Tehran-Karaj Highway,, Tehran, Tehran, IR
+holder-c:	ki108-irnic
+admin-c:	fa482-irnic
+tech-c:		fa482-irnic
+bill-c:		ne346-irnic
+nserver:	ns2.netafraz.com
+nserver:	ns.netafraz.com
+last-updated:	2018-09-17
+expire-date:	2023-04-20
+source:		IRNIC # Filtered
+
+nic-hdl:	ki108-irnic
+org:		Kimia Kherad Pars,Ltd
+e-mail:		kimiakheradpars@gmail.com
+address:	No. 27, West Shiraz Ave., Sharif Univercity of Technology  township, Ardestani Ave., 17th Km Tehran-Karaj Highway,, Tehran, Tehran, IR
+phone:		+98 21 44990260
+source:		IRNIC # Filtered
+
+nic-hdl:	fa482-irnic
+org:		Faraso Samaneh Pasargad Co.
+e-mail:		irnic@faraso.org
+address:	Unit 16, No. 73, Taherian St., Taleghani Crossroad, Shariati St.,, Tehran, Tehran, IR
+phone:		+98 21 7762 4118
+fax-no:		+98 21 7762 4116
+source:		IRNIC # Filtered
+
+nic-hdl:	ne346-irnic
+org:		Netafraz Iranian Co.
+e-mail:		nic@netafraz.com
+source:		IRNIC # Filtered";i:1;d:1549575344.9675529003143310546875;i:2;i:86400;}

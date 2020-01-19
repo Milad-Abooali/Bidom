@@ -1,0 +1,35 @@
+a:3:{i:0;s:933:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'yasinbeigi.ir'
+
+
+domain:		yasinbeigi.ir
+ascii:		yasinbeigi.ir
+remarks:	(Domain Holder) yasin abolhasan beigi galezan
+remarks:	(Domain Holder Address) fars.shiraz, shiraz, fars, IR
+holder-c:	yb246-irnic
+admin-c:	yb246-irnic
+tech-c:		ma363-irnic
+nserver:	ns1.codebox.xyz
+nserver:	ns2.codebox.xyz
+last-updated:	2019-01-19
+expire-date:	2019-01-29
+source:		IRNIC # Filtered
+
+nic-hdl:	yb246-irnic
+person:		yasin abolhasan beigi galezan
+e-mail:		beigi.yasin@yahoo.com
+address:	fars.shiraz, shiraz, fars, IR
+phone:		+989307554115
+source:		IRNIC # Filtered
+
+nic-hdl:	ma363-irnic
+person:		Milad Abooali
+e-mail:		M.Abooali@hotmail.com
+source:		IRNIC # Filtered";i:1;d:1547889602.24437999725341796875;i:2;i:86400;}

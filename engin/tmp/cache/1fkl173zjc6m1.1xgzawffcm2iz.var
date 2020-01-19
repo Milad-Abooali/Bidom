@@ -1,0 +1,39 @@
+a:3:{i:0;s:1239:"% This is the IRNIC Whois server v1.6.2.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'attack.ir'
+
+
+domain:		attack.ir
+ascii:		attack.ir
+remarks:	(Domain Holder) Esmaeel Rahimian Kalate Bali
+remarks:	(Domain Holder Address) Danesh St., Opposite of Danesh 7, Corner of Ershade Sabegh Offise, No. 20,, Shirvan, Khorasan Shomali, IR
+holder-c:	er53-irnic
+admin-c:	mm61-irnic
+tech-c:		mm61-irnic
+nserver:	ns1.attack.ir
+nserver:	ns2.attack.ir
+nserver:	ns3.attack.ir
+last-updated:	2018-11-14
+expire-date:	2019-10-26
+source:		IRNIC # Filtered
+
+nic-hdl:	er53-irnic
+person:		Esmaeel Rahimian Kalate Bali
+e-mail:		Mr.Rahimian@gmail.com
+address:	Danesh St., Opposite of Danesh 7, Corner of Ershade Sabegh Offise, No. 20,, Shirvan, Khorasan Shomali, IR
+phone:		09151885930
+source:		IRNIC # Filtered
+
+nic-hdl:	mm61-irnic
+person:		Mahdi Mohammadi
+e-mail:		irdomains@iranserver.com
+address:	Sajjad Blvd, Bella Business Center, 4th floor, Green Computers, Mashhad, Khorasan Razavi, IR
+phone:		+98 511 7638020
+fax-no:		+98 511 7638030
+source:		IRNIC # Filtered";i:1;d:1547895674.32734394073486328125;i:2;i:86400;}
